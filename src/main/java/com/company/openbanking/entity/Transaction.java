@@ -1,4 +1,4 @@
-package com.company.openbanking.model;
+package com.company.openbanking.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,6 +1,6 @@
 package com.company.openbanking.service;
 
-import com.company.openbanking.model.Transaction;
+import com.company.openbanking.entity.Transaction;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

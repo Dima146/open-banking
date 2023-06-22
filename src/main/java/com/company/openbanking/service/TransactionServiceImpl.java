@@ -1,6 +1,6 @@
 package com.company.openbanking.service;
 
-import com.company.openbanking.model.Transaction;
+import com.company.openbanking.entity.Transaction;
 import org.springframework.stereotype.Service;
 
 import java.util.Collections;
